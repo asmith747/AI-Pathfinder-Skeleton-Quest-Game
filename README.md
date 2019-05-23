@@ -1,5 +1,8 @@
 # AI-Pathfinder-Skeleton-Quest-Game
 
+![Skeleton Quest](https://user-images.githubusercontent.com/46660535/58275415-93b2ad80-7d5a-11e9-955b-bec7022c0eec.JPG)
+
+
 All code is produced solely by Austin smith. 
 
 Written in eclipse and for the visual aspect uses processing from processing.org
